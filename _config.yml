@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://stormalize.github.io
+title: Stormalize
+email: stormalizer@gmail.com
+author: stormalize
+description: My awesome new site
+paginate: 5
+google_analytics: 
